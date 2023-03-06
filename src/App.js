@@ -1,14 +1,11 @@
-import React from 'react';
+import React from 'react'
+import Questions from './components/Questions'
 
 
 function App() {
   return (
-    <>
-      <h1 className="text-5xl font-bold underline">
-        Hello world!
-      </h1>
-    </>
-  );
+    <Questions />
+  )
 }
 
-export default App;
+export default App

@@ -1,7 +1,9 @@
+/* Tailwind config  */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Custom CSS */
 *{
     margin: 0;
     padding: 0;
@@ -9,5 +11,5 @@
 }
 
 body{
-    background-color: #f2f2f2;
+    background-color: #2a2a2a;
 }
